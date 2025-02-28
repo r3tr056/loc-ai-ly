@@ -1,8 +1,10 @@
 # loc-ai-ly: Local AI for Everyone
 
-**Making Large Language Model Inference Accessible on Consumer Hardware**
+<p align="center">
+  <img src="https://github.com/r3tr056/loc-ai-ly/blob/master/.github/images/banner.png?raw=true" alt="Locaily Banner">
+</p>
 
-![loc-ai-ly Logo Placeholder](docs/loc-ai-ly-logo.png) <!-- Replace with your project logo if you have one -->
+**Making Large Language Model Inference Accessible on Consumer Hardware**
 
 **Project Goal:**
 
